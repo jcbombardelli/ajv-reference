@@ -1,0 +1,22 @@
+{
+  "name": "ajv-reference",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcbombardelli/ajv-reference.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcbombardelli/ajv-reference/issues"
+  },
+  "homepage": "https://github.com/jcbombardelli/ajv-reference#readme",
+  "dependencies": {
+    "ajv": "^6.11.0"
+  }
+}
