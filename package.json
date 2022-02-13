@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/jcbombardelli/ajv-reference#readme",
   "dependencies": {
-    "ajv": "^6.11.0"
+    "ajv": "^6.12.3"
   }
 }
